@@ -1,8 +1,8 @@
 function heroImage() {
-  let hero = document.getElementById("hero-button");
+  const hero = document.getElementById("hero");
   hero.innerHTML = ` 
   <!-- Hero -->
-  <section>
+  <section id="hero">
     <div
       class="relative overflow-hidden bg-cover bg-no-repeat p-12 text-center md:h-[800px] h-[400px]"
       style="background-image: url('img/water.webp')"
@@ -43,7 +43,7 @@ function heroImage() {
 heroImage();
 
 function heroButton() {
-  let btn1 = document.getElementById("btn-1");
+  const btn1 = document.getElementById("btn-1");
   btn1.addEventListener("click", function () {
     window.open(
       "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
