@@ -47,8 +47,15 @@ function navBar() {
                 href="#"
                 class="block py-2 pl-3 pr-4 text-white bg-black rounded md:bg-transparent md:text-blue-700 md:p-0"
                 aria-current="page"
-                >Home</a
+                >Beranda</a
               >
+            </li>
+            <li>
+            <a
+              href="#"
+              class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
+              >Tentang</a
+            >
             </li>
             <li>
               <button
@@ -56,7 +63,7 @@ function navBar() {
                 data-dropdown-toggle="dropdownNavbar"
                 class="flex items-center justify-between w-full py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:w-auto"
               >
-                Dropdown
+                Panduan Akses
                 <svg
                   class="w-2.5 h-2.5 ml-2.5"
                   aria-hidden="true"
@@ -84,17 +91,17 @@ function navBar() {
                 >
                   <li>
                     <a href="#" class="block px-4 py-2 hover:bg-gray-100"
-                      >Dashboard</a
+                      >Aktivitas</a
                     >
                   </li>
                   <li>
                     <a href="#" class="block px-4 py-2 hover:bg-gray-100"
-                      >Settings</a
+                      >Galeri</a
                     >
                   </li>
                   <li>
                     <a href="#" class="block px-4 py-2 hover:bg-gray-100"
-                      >Earnings</a
+                      >Testimoni</a
                     >
                   </li>
                 </ul>
@@ -104,21 +111,7 @@ function navBar() {
               <a
                 href="#"
                 class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-                >Services</a
-              >
-            </li>
-            <li>
-              <a
-                href="#"
-                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-                >Pricing</a
-              >
-            </li>
-            <li>
-              <a
-                href="#"
-                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-                >Contact</a
+                >Kontak</a
               >
             </li>
           </ul>
