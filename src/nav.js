@@ -2,7 +2,7 @@ function navBar() {
   const navbar = document.getElementById("nav");
   navbar.innerHTML = ` 
   <!-- Navbar -->
-    <section id="nav">
+  <section id="nav">
     <nav class="bg-white border-gray-200">
       <div
         class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
@@ -10,7 +10,7 @@ function navBar() {
         <a href="#" class="flex items-center">
           <img src="img/logo1.png" class="h-8 mr-3" alt="KKN" />
           <span
-            class="self-center text-lg md:text-2xl font-semibold whitespace-nowrap"
+            class="self-center text-lg md:text-2xl font-semibold whitespace-nowrap text-black"
             >Curug Cierang</span
           >
         </a>
@@ -45,23 +45,23 @@ function navBar() {
             <li>
               <a
                 href="#"
-                class="block py-2 pl-3 pr-4 text-white bg-black rounded md:bg-transparent md:text-blue-700 md:p-0"
+                class="block py-2 pl-3 pr-4 text-white bg-teal-700 rounded md:bg-transparent md:text-teal-700 md:p-0"
                 aria-current="page"
                 >Beranda</a
               >
             </li>
             <li>
-            <a
-              href="#"
-              class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-              >Tentang</a
-            >
+              <a
+                href="#"
+                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-teal-700 md:p-0"
+                >Tentang</a
+              >
             </li>
             <li>
               <button
                 id="dropdownNavbarLink"
                 data-dropdown-toggle="dropdownNavbar"
-                class="flex items-center justify-between w-full py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:w-auto"
+                class="flex items-center justify-between w-full py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-teal-700 md:p-0 md:w-auto"
               >
                 Panduan Akses
                 <svg
@@ -110,7 +110,7 @@ function navBar() {
             <li>
               <a
                 href="#"
-                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
+                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-teal-700 md:p-0"
                 >Kontak</a
               >
             </li>
@@ -118,8 +118,8 @@ function navBar() {
         </div>
       </div>
     </nav>
-    </section>
-    <!-- Navbar -->
+  </section>
+  <!-- Navbar -->
     `;
 }
 navBar();
