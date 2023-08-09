@@ -1,4 +1,7 @@
-<!-- Carousel -->
+function car() {
+  const cars = document.getElementById("carousel");
+  cars.innerHTML = ` 
+    <!-- Carousel -->
     <section id="carousel">
       <div class="container mx-auto">
         <h2
@@ -150,3 +153,53 @@
         </button>
       </div>
     </section>
+      `;
+}
+car();
+
+const carousel = document.querySelector("[data-carousel]");
+const carouselItems = document.querySelectorAll("[data-carousel-item]");
+const prevButton = document.querySelector("[data-carousel-prev]");
+const nextButton = document.querySelector("[data-carousel-next]");
+const slideIndicators = document.querySelectorAll("[data-carousel-slide-to]");
+
+let currentIndex = 0;
+
+// Function to show the current slide
+function showSlide(index) {
+  carouselItems.forEach((item) => item.classList.add("hidden"));
+  carouselItems[index].classList.remove("hidden");
+
+  slideIndicators.forEach((indicator) =>
+    indicator.setAttribute("aria-current", "false")
+  );
+  slideIndicators[index].setAttribute("aria-current", "true");
+}
+
+// Function to go to the previous slide
+function prevSlide() {
+  currentIndex =
+    (currentIndex - 1 + carouselItems.length) % carouselItems.length;
+  showSlide(currentIndex);
+}
+
+// Function to go to the next slide
+function nextSlide() {
+  currentIndex = (currentIndex + 1) % carouselItems.length;
+  showSlide(currentIndex);
+}
+
+// Add click event listeners to previous and next buttons
+prevButton.addEventListener("click", prevSlide);
+nextButton.addEventListener("click", nextSlide);
+
+// Add click event listeners to slide indicators
+slideIndicators.forEach((indicator, index) => {
+  indicator.addEventListener("click", () => {
+    currentIndex = index;
+    showSlide(currentIndex);
+  });
+});
+
+// Initialize the carousel by showing the first slide
+showSlide(currentIndex);
