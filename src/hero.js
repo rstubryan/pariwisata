@@ -15,10 +15,10 @@ function heroImage() {
           <div class="text-white">
             <h2 class="md:mb-5 mb-2 md:text-5xl text-2xl font-semibold">Wisata Curug Cierang</h2>
             <h3 class="md:mb-7 mb-2 md:text-6xl text-3xl font-bold">Desa Wangunsari Pelabuan Ratu</h3>
-            <h4 class="md:text-xl text-sm font-semibolds text-gray-300">
+            <h4 class="md:text-xl md:mr-0 md:ml-0 text-sm mr-6 ml-6 font-semibolds text-gray-300">
               Selamat datang di dunia keajaiban alam yang memukau! Mari kita berpetualang bersama
             </h4>
-            <h4 class="md:mt-2 md:text-xl text-sm font-semibolds text-gray-300">
+            <h4 class="md:mt-2 md:text-xl md:mr-0 md:ml-0 text-sm mr-10 ml-10 font-semibolds text-gray-300">
               dan terpesona dengan keindahan tak tergoyahkan dari Curug Cierang.
             </h4>
             <div class="md:mt-7 mt-4"></div>
