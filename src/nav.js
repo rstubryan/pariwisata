@@ -45,7 +45,7 @@ function navBar() {
             <li>
               <a
                 href="#"
-                class="block py-2 pl-3 pr-4 text-white bg-teal-700 rounded md:bg-transparent md:text-teal-700 md:p-0"
+                class="block py-2 pl-3 pr-4 text-white bg-gray-500 rounded md:bg-transparent md:text-gray-500 md:p-0"
                 aria-current="page"
                 >Beranda</a
               >
@@ -53,7 +53,7 @@ function navBar() {
             <li>
               <a
                 href="#"
-                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-teal-700 md:p-0"
+                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-500 md:p-0"
                 >Tentang</a
               >
             </li>
@@ -61,7 +61,7 @@ function navBar() {
               <button
                 id="dropdownNavbarLink"
                 data-dropdown-toggle="dropdownNavbar"
-                class="flex items-center justify-between w-full py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-teal-700 md:p-0 md:w-auto"
+                class="flex items-center justify-between w-full py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-500 md:p-0 md:w-auto"
               >
                 Panduan Akses
                 <svg
@@ -110,7 +110,7 @@ function navBar() {
             <li>
               <a
                 href="#"
-                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-teal-700 md:p-0"
+                class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-500 md:p-0"
                 >Kontak</a
               >
             </li>

@@ -13,19 +13,19 @@ function heroImage() {
       >
         <div class="flex h-full items-center justify-center">
           <div class="text-white">
-            <h2 class="md:mb-5 mb-2 md:text-5xl text-2xl font-semibold">Wisata <span class="inline-block whitespace-nowrap rounded-xl px-[0.25em] pb-[0.20em] pt-[0.20em] text-center align-baseline md:text-5xl text-2xl font-bold leading-none text-white bg-teal-700"
+            <h2 class="md:mb-5 mb-2 md:text-5xl text-2xl font-semibold">Wisata <span class="inline-block whitespace-nowrap rounded-xl px-[0.25em] pb-[0.20em] pt-[0.20em] text-center align-baseline md:text-5xl text-2xl font-bold leading-none text-white bg-gray-500"
             >Curug Cierang</span> </h2>
             <h3 class="md:mb-7 mb-2 md:text-6xl text-3xl font-bold">Desa Wangunsari Pelabuan Ratu</h3>
             <h4 class="md:text-xl md:mr-0 md:ml-0 text-sm mr-6 ml-6 font-semibolds text-gray-300">
               Selamat datang di dunia keajaiban alam yang memukau! Mari kita berpetualang bersama
             </h4>
             <h4 class="md:mt-2 md:text-xl md:mr-0 md:ml-0 text-sm mr-10 ml-10 font-semibolds text-gray-300">
-              dan terpesona dengan keindahan tak tergoyahkan dari <span class="text-teal-700">Curug Cierang</span>.
+              dan terpesona dengan keindahan tak tergoyahkan dari <span class="text-gray-500">Curug Cierang</span>.
             </h4>
             <div class="md:mt-7 mt-4"></div>
             <button
               type="button"
-              class="rounded border-2 border-neutral-50 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-white bg-teal-700 transition duration-150 ease-in-out hover:border-neutral-100 hover:bg-white hover:text-black focus:border-teal-400 focus:text-black focus:outline-none focus:ring-0 active:border-teal-700 active:text-black"
+              class="rounded border-2 border-neutral-50 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-white bg-gray-500 transition duration-150 ease-in-out hover:border-neutral-100 hover:bg-white hover:text-black focus:border-teal-400 focus:text-black focus:outline-none focus:ring-0 active:border-teal-700 active:text-black"
               data-te-ripple-init
               data-te-ripple-color="light"
               id="btn-1"
