@@ -12,7 +12,7 @@ function car() {
       </div>
       <div
         id="default-carousel"
-        class="relative w-full container mx-auto"
+        class="relative w-[1000px] container mx-auto"
         data-carousel="slide"
       >
         <!-- Carousel wrapper -->
