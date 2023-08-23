@@ -11,7 +11,7 @@ function kontak() {
         </h2>
       </div>
 
-      <div class="ml-[710px] flex flex-cols container mx-auto">
+      <div class="md:block hidden md:ml-[710px] flex flex-cols container mx-auto">
       <div
         class="block max-w-max rounded-lg bg-gray-200 hover:bg-gray-300 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"
       >

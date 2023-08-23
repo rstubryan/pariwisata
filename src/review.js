@@ -11,7 +11,7 @@ function rvw() {
         
         <div class="flex flex-cols container mx-auto text-center">
         <a
-          class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
+          class="md:block hidden max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
         >
           <article>
             <div class="justify-center flex items-center mb-4 space-x-4">
@@ -99,7 +99,7 @@ function rvw() {
         </a>
 
         <a
-          class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
+          class="md:block hidden max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
         >
           <article>
             <div class="justify-center flex items-center mb-4 space-x-4">
@@ -187,7 +187,7 @@ function rvw() {
         </a>
 
         <a
-        class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
+        class="md:block hidden max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
       >
         <article>
           <div class="justify-center flex items-center mb-4 space-x-4">
