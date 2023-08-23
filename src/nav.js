@@ -101,6 +101,11 @@ function navBar() {
                   </li>
                   <li>
                     <a href="#" class="block px-4 py-2 hover:bg-gray-100"
+                      >Google Maps</a
+                    >
+                  </li>
+                  <li>
+                    <a href="#" class="block px-4 py-2 hover:bg-gray-100"
                       >Testimoni</a
                     >
                   </li>
