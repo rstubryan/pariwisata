@@ -9,9 +9,9 @@ function rvw() {
           Testimoni
         </h2>
         
-        <div class="flex flex-cols container mx-auto text-center">
+        <div class="md:flex md:flex-cols container mx-auto text-center">
         <a
-          class="md:block hidden max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
+          class="max-w-sm md:p-6 md:bg-white border md:border-gray-200 md:rounded-lg md:shadow md:hover:bg-gray-100 text-center mx-auto"
         >
           <article>
             <div class="justify-center flex items-center mb-4 space-x-4">
@@ -99,7 +99,7 @@ function rvw() {
         </a>
 
         <a
-          class="md:block hidden max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
+          class="max-w-sm md:p-6 md:bg-white border md:border-gray-200 md:rounded-lg md:shadow md:hover:bg-gray-100 text-center mx-auto"
         >
           <article>
             <div class="justify-center flex items-center mb-4 space-x-4">
@@ -187,7 +187,7 @@ function rvw() {
         </a>
 
         <a
-        class="md:block hidden max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 text-center mx-auto"
+        class="max-w-sm md:p-6 md:bg-white border md:border-gray-200 md:rounded-lg md:shadow md:hover:bg-gray-100 text-center mx-auto"
       >
         <article>
           <div class="justify-center flex items-center mb-4 space-x-4">
