@@ -44,7 +44,7 @@ function navBar() {
           >
             <li>
               <a
-                href="#"
+                href="#hero"
                 class="block py-2 pl-3 pr-4 text-white bg-gray-500 rounded md:bg-transparent md:text-gray-500 md:p-0"
                 aria-current="page"
                 >Beranda</a
@@ -52,7 +52,7 @@ function navBar() {
             </li>
             <li>
               <a
-                href="#"
+                href="#about"
                 class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-500 md:p-0"
                 >Tentang</a
               >
@@ -90,23 +90,28 @@ function navBar() {
                   aria-labelledby="dropdownLargeButton"
                 >
                   <li>
-                    <a href="#" class="block px-4 py-2 hover:bg-gray-100"
+                    <a href="#activity" class="block px-4 py-2 hover:bg-gray-100"
                       >Aktivitas</a
                     >
                   </li>
                   <li>
-                    <a href="#" class="block px-4 py-2 hover:bg-gray-100"
+                    <a href="#carousel" class="block px-4 py-2 hover:bg-gray-100"
                       >Galeri</a
                     >
                   </li>
                   <li>
-                    <a href="#" class="block px-4 py-2 hover:bg-gray-100"
+                    <a href="#gmaps" class="block px-4 py-2 hover:bg-gray-100"
                       >Google Maps</a
                     >
                   </li>
                   <li>
-                    <a href="#" class="block px-4 py-2 hover:bg-gray-100"
+                    <a href="#testimoni" class="block px-4 py-2 hover:bg-gray-100"
                       >Testimoni</a
+                    >
+                  </li>
+                  <li>
+                    <a href="#faq" class="block px-4 py-2 hover:bg-gray-100"
+                      >FAQ</a
                     >
                   </li>
                 </ul>
@@ -114,7 +119,7 @@ function navBar() {
             </li>
             <li>
               <a
-                href="#"
+                href="#contact"
                 class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-500 md:p-0"
                 >Kontak</a
               >
