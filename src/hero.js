@@ -13,7 +13,7 @@ function heroImage() {
       >
         <div class="flex h-full items-center justify-center">
           <div class="text-white">
-            <h2 class="md:mb-5 mb-2 md:text-5xl text-2xl font-semibold">Wisata <span class="inline-block whitespace-nowrap rounded-xl px-[0.25em] pb-[0.20em] pt-[0.20em] text-center align-baseline md:text-5xl text-2xl font-bold leading-none text-white"
+            <h2 class="md:mb-5 mb-2 md:text-5xl text-2xl font-semibold">Wisata<span class="inline-block whitespace-nowrap rounded-xl px-[0.25em] pb-[0.20em] pt-[0.20em] text-center align-baseline md:text-5xl text-2xl font-bold leading-none text-white"
             >Curug Cierang</span> </h2>
             <h3 class="md:mb-7 mb-2 md:text-6xl text-3xl font-bold">Desa Wangunsari Pelabuan Ratu</h3>
             <h4 class="md:text-xl md:mr-0 md:ml-0 text-sm mr-6 ml-6 font-semibolds text-gray-300">
