@@ -18,7 +18,7 @@ function rvw() {
               <img class="w-10 h-10 rounded-full" src="" alt="" />
               <div class="space-y-1 font-medium">
                 <p>
-                  Asep Seblak
+                  Asep
                   <time
                     datetime="2014-08-16 19:00"
                     class="block text-sm text-gray-500"
@@ -106,7 +106,7 @@ function rvw() {
               <img class="w-10 h-10 rounded-full" src="" alt="" />
               <div class="space-y-1 font-medium">
                 <p>
-                  Ujang Kusen
+                  Ujang
                   <time
                     datetime="2014-08-16 19:00"
                     class="block text-sm text-gray-500"
@@ -194,7 +194,7 @@ function rvw() {
             <img class="w-10 h-10 rounded-full" src="" alt="" />
             <div class="space-y-1 font-medium">
               <p>
-                Ryan Kupling
+                Ryan
                 <time
                   datetime="2014-08-16 19:00"
                   class="block text-sm text-gray-500"
