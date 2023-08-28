@@ -13,7 +13,7 @@ function kontak() {
         </h2>
       </div>      
 
-      <div class="flex flex-cols w-[45%] container mx-auto">
+      <div class="md:flex md:flex-cols md:w-[45%] container mx-auto">
       <div class="container mx-auto">
         <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow container mx-auto">
           <i class="fas fa-envelope w-7 h-7 text-gray-500 mb-3"></i>
@@ -27,6 +27,8 @@ function kontak() {
           </a>
         </div>
       </div>
+      
+      <div class="md:md-0 mb-4"></div>
     
       <div class="container mx-auto">
         <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow container mx-auto">
