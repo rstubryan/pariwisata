@@ -44,7 +44,7 @@ function navBar() {
           >
             <li>
               <a
-                href="#hero"
+                href="#"
                 class="block py-2 pl-3 pr-4 text-white bg-gray-500 rounded md:bg-transparent md:text-gray-500 md:p-0"
                 aria-current="page"
                 >Beranda</a
