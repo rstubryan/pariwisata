@@ -17,11 +17,11 @@ function kontak() {
       <div class="container mx-auto">
         <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow container mx-auto">
           <i class="fas fa-envelope w-7 h-7 text-gray-500 mb-3"></i>
-          <a href="#">
+          <a href="#contact">
             <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900">E-Mail</h5>
           </a>
           <p class="mb-3 font-normal text-gray-500">desawangunsari2019@gmail.com</p>
-          <a href="#" class="inline-flex items-center text-blue-600 hover:underline">
+          <a href="mailto:desawangunsari2019@gmail.com" class="inline-flex items-center text-blue-600 hover:underline">
             Email Us
             <i class="fas fa-chevron-right ml-2.5"></i>
           </a>
@@ -31,12 +31,12 @@ function kontak() {
       <div class="container mx-auto">
         <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow container mx-auto">
           <i class="fas fa-phone-alt w-7 h-7 text-gray-500 mb-3"></i>
-          <a href="#">
+          <a href="#contact">
             <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900">No. Telepon</h5>
           </a>
           <p class="mb-3 font-normal text-gray-500">085703025651</p>
-          <a href="#" class="inline-flex items-center text-blue-600 hover:underline">
-            Email Us
+          <a href="https://wa.me/085703025651" class="inline-flex items-center text-blue-600 hover:underline" target="_blank">
+            Contact Us
             <i class="fas fa-chevron-right ml-2.5"></i>
           </a>
         </div>

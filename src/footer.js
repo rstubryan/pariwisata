@@ -12,12 +12,12 @@ function foot() {
                 </a>
                 <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0">
                     <li>
-                        <a href="#" class="mr-4 hover:underline md:mr-6">Website Desa</a>
+                        <a href="https://wangunsari.desa.id/" class="mr-4 hover:underline md:mr-6" target="_blank">Website Desa</a>
                     </li>
                 </ul>
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
-            <span class="block text-sm text-gray-500 sm:text-center">© 2023 <a href="https://wangunsari.desa.id/" class="hover:underline">Desa Wangunsari™</a>. All Rights Reserved.</span>
+            <span class="block text-sm text-gray-500 sm:text-center">© 2023 <a href="https://wangunsari.desa.id/" class="hover:underline" target="_blank">Desa Wangunsari™</a>. All Rights Reserved.</span>
         </div>
       </footer>
     </section>
