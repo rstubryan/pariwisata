@@ -93,7 +93,7 @@ function rvw() {
                 <time datetime="2023-08-05 13:00">Agustus 5, 2023</time>
               </p>
             </footer>
-            <p class="mb-2 text-gray-500">Mantap gaming</p>
+            <p class="mb-2 text-gray-500">Mantap</p>
             <p class="mb-3 text-gray-500">Sukses selalu</p>
           </article>
         </a>
@@ -181,7 +181,7 @@ function rvw() {
                 <time datetime="2023-08-05 13:00">Agustus 5, 2023</time>
               </p>
             </footer>
-            <p class="mb-2 text-gray-500">Mantap gaming</p>
+            <p class="mb-2 text-gray-500">Mantap</p>
             <p class="mb-3 text-gray-500">Sukses selalu</p>
           </article>
         </a>
@@ -269,7 +269,7 @@ function rvw() {
               <time datetime="2023-08-05 13:00">Agustus 5, 2023</time>
             </p>
           </footer>
-          <p class="mb-2 text-gray-500">Mantap gaming</p>
+          <p class="mb-2 text-gray-500">Mantap</p>
           <p class="mb-3 text-gray-500">Sukses selalu</p>
         </article>
       </a>
