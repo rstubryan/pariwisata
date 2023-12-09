@@ -15,7 +15,7 @@ function rvw() {
         >
           <article>
             <div class="justify-center flex items-center mb-4 space-x-4">
-              <img class="w-10 h-10 rounded-full" src="" alt="" />
+              <img class="w-10 h-10 rounded-full" src="https://i.pravatar.cc/300" alt="" />
               <div class="space-y-1 font-medium">
                 <p>
                   Asep
@@ -103,7 +103,7 @@ function rvw() {
         >
           <article>
             <div class="justify-center flex items-center mb-4 space-x-4">
-              <img class="w-10 h-10 rounded-full" src="" alt="" />
+              <img class="w-10 h-10 rounded-full" src="https://i.pravatar.cc/301" alt="" />
               <div class="space-y-1 font-medium">
                 <p>
                   Ujang
@@ -191,7 +191,7 @@ function rvw() {
       >
         <article>
           <div class="justify-center flex items-center mb-4 space-x-4">
-            <img class="w-10 h-10 rounded-full" src="" alt="" />
+            <img class="w-10 h-10 rounded-full" src="https://i.pravatar.cc/302" alt="" />
             <div class="space-y-1 font-medium">
               <p>
                 Ryan
