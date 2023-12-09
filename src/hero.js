@@ -5,7 +5,7 @@ function heroImage() {
   <section id="hero">
     <div
       class="relative overflow-hidden bg-cover bg-no-repeat p-12 text-center md:h-[800px] h-[400px]"
-      style="background-image: url('img/water.webp')"
+      style="background-image: url('https://raw.githubusercontent.com/rstubryan/assets/master/gambar/curug/curug1.jpg')"
     >
       <div
         class="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-fixed"
