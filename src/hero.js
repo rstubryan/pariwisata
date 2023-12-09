@@ -46,9 +46,7 @@ heroImage();
 function heroButton() {
   const btn1 = document.getElementById("btn-1");
   btn1.addEventListener("click", function () {
-    window.open(
-      "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
-    );
+    window.open("https://www.youtube.com/@wangunsarichannel");
 
     btn1.classList.add("animate-pulse");
     btn1.innerHTML = "Loading...";
