@@ -20,7 +20,7 @@ function car() {
           <!-- Item 1 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="img/logo.png"
+              src="https://raw.githubusercontent.com/rstubryan/assets/master/gambar/curug/curug1.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -28,7 +28,7 @@ function car() {
           <!-- Item 2 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="img/logo1.png"
+              src="https://raw.githubusercontent.com/rstubryan/assets/master/gambar/curug/curug2.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -36,7 +36,7 @@ function car() {
           <!-- Item 3 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="img/logo.png"
+              src="https://raw.githubusercontent.com/rstubryan/assets/master/gambar/curug/curug3.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -44,7 +44,7 @@ function car() {
           <!-- Item 4 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="img/logo1.png"
+              src="https://raw.githubusercontent.com/rstubryan/assets/master/gambar/curug/curug4.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
